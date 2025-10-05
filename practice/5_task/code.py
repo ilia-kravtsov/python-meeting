@@ -1,5 +1,3 @@
-# %%
-
 def get_minutes_and_seconds(time_string):
     time_list = time_string.split(':')
     m = int(time_list[0])
